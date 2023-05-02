@@ -30,12 +30,12 @@
   </div>
     <div class="container">
     <a href="https://vk.ru/">
-      <img src="/vk.png" alt="">
+      <img src="asd/vk.png" alt="">
     </a>
   </div>
   <div class="containerr">
     <a href="https://spotify.com/">
-      <img src="/spott.png" alt="">
+      <img src="asd/spott.png" alt="">
     </a>
   </div>
   <style>
