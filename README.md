@@ -28,6 +28,5 @@
       <img src="asd/ffaceit.png" alt="">
     </a>
   </div>
-</html>
 </body>
 </html>
