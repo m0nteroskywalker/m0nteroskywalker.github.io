@@ -29,6 +29,10 @@
     </a>
   </div>
   
-  <style> </style>
+  <style>
+  .markdown-body h1 {
+    display: none;
+  }
+  </style> 
 </body>
 </html>
