@@ -1,10 +1,10 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="asd/style.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -15,17 +15,17 @@
 <body>
   <div class="container">
     <a href="https://cybershoke.net/csgo">
-      <img src="/cybershoke.png" alt="hui" height="50%">
+      <img src="asd/cybershoke.png" alt="hui" height="50%">
     </a>
   </div>
   <div class="container" style="margin-bottom: 40px;">
     <a href="https://www.google.com/">
-      <img src="/google.png" alt="">
+      <img src="asd/google.png" alt="">
     </a>
   </div>
   <div class="container">
     <a href="https://faceitfinder.com/">
-      <img src="/ffaceit.png" alt="">
+      <img src="asd/ffaceit.png" alt="">
     </a>
   </div>
 </html>
