@@ -33,7 +33,7 @@
       <img src="asd/vk.png" alt="">
     </a>
   </div>
-  <div class="containerr">
+  <div class="container">
     <a href="https://spotify.com/">
       <img src="asd/spott.png" alt="">
     </a>
