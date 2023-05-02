@@ -12,7 +12,7 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>  
   <title>Document</title>
 </head>
-<body style="background-color: black">
+<body style="background-color: black;">
   <div class="container">
     <a href="https://cybershoke.net/csgo">
       <img src="asd/cybershoke.png" alt="hui" height="50%">
