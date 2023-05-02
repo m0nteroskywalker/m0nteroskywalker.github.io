@@ -13,9 +13,6 @@
   <title>Document</title>
 </head>
 <body style="background-color: black;">
-  <h1 style="display: block"> 
-    NURSAT GANDON
-  </h1>
   <div class="container">
     <a href="https://cybershoke.net/csgo">
       <img src="asd/cybershoke.png" alt="hui" height="50%">
