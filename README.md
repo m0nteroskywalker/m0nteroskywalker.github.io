@@ -13,7 +13,7 @@
   <title>Document</title>
 </head>
 <body style="background-color: black;">
-  <h1> 
+  <h1 style="display: none"> 
     NURSAT GANDON
   </h1>
   <div class="container">
