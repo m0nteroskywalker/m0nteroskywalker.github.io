@@ -28,7 +28,16 @@
       <img src="asd/ffaceit.png" alt="">
     </a>
   </div>
-  
+    <div class="container">
+    <a href="https://vk.ru/">
+      <img src="/vk.png" alt="">
+    </a>
+  </div>
+  <div class="containerr">
+    <a href="https://spotify.com/">
+      <img src="/spott.png" alt="">
+    </a>
+  </div>
   <style>
   .markdown-body h1 {
     display: none;
